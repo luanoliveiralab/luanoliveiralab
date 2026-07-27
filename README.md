@@ -1,18 +1,31 @@
 # 👋 Olá! Eu sou o Luan Oliveira 😎
 
-**``💻 Desenvolvedor Front-end em formação``**
+**💻 Front-End Developer in Training**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** e apaixonado por desenvolvimento web. Atualmente trabalho como **Assistente Administrativo**, mas estou focado em evoluir minhas habilidades como desenvolvedor e em busca da minha primeira oportunidade na área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** e apaixonado por desenvolvimento web.
+
+Atualmente atuo como **Assistente Administrativo**, mas estou focado em evoluir minhas habilidades em desenvolvimento Front-end e em busca da minha primeira oportunidade na área de tecnologia.
 
 ---
 
 ## 🚀 Tecnologias
 
 <div align="left">
-  <img alt="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img alt="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img alt="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
 </div>
 
 ---
@@ -21,17 +34,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** e apaixo
 
 - ⚛️ React
 - 📜 JavaScript (ES6+)
-- 🎨 HTML5 e CSS3
-- 🌐 Consumo de APIs
-- 📱 Responsividade e boas práticas de UI
+- 🎨 HTML5 & CSS3
+- 🌐 Consumo de APIs REST
+- 📱 Responsividade
+- ✨ Boas práticas de UI/UX
+- 🔧 VSCode, Git e GitHub
 
 ---
 
 ## 📌 Projetos em destaque
 
-🚧 Em construção...
+🚧 **Em construção...**
 
-Em breve você encontrará aqui meus principais projetos desenvolvidos com foco em aprendizado, boas práticas e desenvolvimento Front-end.
+Em breve você encontrará aqui meus principais projetos desenvolvidos com foco em desenvolvimento Front-end, boas práticas e código limpo.
 
 ---
 
@@ -53,4 +68,4 @@ Em breve você encontrará aqui meus principais projetos desenvolvidos com foco 
 
 ---
 
-> 💡 *"Sempre aprendendo, sempre construindo."* 🚀
+> 💡 *"Always learning. Always building."* 🚀
