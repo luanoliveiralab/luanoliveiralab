@@ -1,5 +1,11 @@
 # 👋 Olá! Eu sou o Luan Oliveira 😎
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanoliveiralab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanoliveiralab&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
 **💻 Front-End Developer in Training**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** e apaixonado por desenvolvimento web.
@@ -26,6 +32,15 @@ Atualmente atuo como **Assistente Administrativo**, mas estou focado em evoluir 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img alt="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
+</div>
+
+## 🛠️ Ferramentas
+
+<div align="left">
+  <img alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="VS Code" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Figma" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 ---
