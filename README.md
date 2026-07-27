@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 <strong>Aspiring Software Developer</strong><br>
-  🎓 ADS Student - UNIP • 🚀 Em busca da primeira oportunidade em Tecnologia
+  🎓 ADS Student - Universidade Paulista • 🚀 Em busca da primeira oportunidade em Tecnologia
 </p>
 
 ---
