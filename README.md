@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Luan Oliveira</h1>
 
 <p align="center">
-  💻 <strong>Aspiring Front-End Developer</strong><br>
+  💻 <strong>Aspiring Software Developer</strong><br>
   🎓 ADS Student @ UNIP • 🚀 Em busca da primeira oportunidade em Tecnologia
 </p>
 
@@ -9,11 +9,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** e apaixonado por desenvolvimento Front-end.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** e apaixonado por tecnologia e desenvolvimento de software.
 
-Atualmente trabalho como **Assistente Administrativo**, enquanto desenvolvo projetos pessoais para fortalecer meus conhecimentos em **React**, **JavaScript**, **HTML** e **CSS**.
+Atualmente trabalho como **Assistente Administrativo** e dedico meu tempo ao desenvolvimento de projetos para evoluir minhas habilidades em desenvolvimento web, back-end e banco de dados.
 
-Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Front-end, contribuindo para a criação de aplicações modernas, responsivas e com uma excelente experiência para o usuário.
+Atualmente estudo **JavaScript**, **React**, **Next.js**, **Node.js**, **SQL** e **PostgreSQL**, sempre buscando aplicar esses conhecimentos em projetos práticos.
+
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, crescer profissionalmente e contribuir para o desenvolvimento de soluções modernas e eficientes.
 
 ---
 
@@ -29,12 +31,24 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Front-
 <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </a>
 
+<a href="https://nextjs.org/" target="_blank">
+<img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</a>
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
 <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
 <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </a>
 
 </div>
@@ -68,28 +82,37 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Front-
 ## 📚 Atualmente estudando
 
 - ⚛️ React
+- ▲ Next.js
+- 🟢 Node.js
 - 📜 JavaScript (ES6+)
-- 🌐 Consumo de APIs REST
+- 🗄️ SQL
+- 🐘 PostgreSQL
+- 🌐 APIs REST
 - 📱 Desenvolvimento Responsivo
-- ✨ Boas práticas de UI/UX
 - 🔧 Git e GitHub
 
 ---
 
 ## 🎯 Objetivos
 
-- 🚀 Conquistar minha primeira oportunidade como Desenvolvedor Front-end.
-- 📚 Evoluir constantemente minhas habilidades em React e JavaScript.
-- 💡 Desenvolver aplicações modernas, acessíveis e responsivas.
-- 🤝 Colaborar em projetos Open Source e aprender com a comunidade.
+- 🚀 Conquistar minha primeira oportunidade na área de Tecnologia.
+- 💻 Evoluir como Desenvolvedor de Software.
+- 🗄️ Aprimorar meus conhecimentos em Banco de Dados e SQL.
+- 📚 Desenvolver projetos que fortaleçam meu portfólio.
+- 🤝 Colaborar com projetos Open Source e aprender com a comunidade.
 
 ---
 
 ## 📌 Projetos
 
-Em breve você encontrará aqui alguns dos projetos que estou desenvolvendo durante minha jornada como Desenvolvedor Front-end.
+Em breve você encontrará aqui projetos desenvolvidos durante minha jornada de aprendizado, envolvendo:
 
-Cada projeto demonstrará minha evolução em React, JavaScript, consumo de APIs e boas práticas de desenvolvimento.
+- 🌐 Desenvolvimento Web
+- ⚛️ React e Next.js
+- 🟢 Node.js
+- 🗄️ PostgreSQL e SQL
+- 🔗 APIs REST
+- 💡 Boas práticas de desenvolvimento
 
 ---
 
@@ -114,9 +137,9 @@ Cada projeto demonstrará minha evolução em React, JavaScript, consumo de APIs
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=luanoliveiralab&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=luanoliveiralab&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-✨ <i>"Always learning. Always building."</i> 🚀
+  💡 <i>"Always learning. Always building."</i> 🚀
 </p>
